@@ -1,0 +1,12 @@
+{
+  "name": "Fortress: AI Fraud Defense & Dispute Resolution",
+  "description": "An enterprise-grade fintech platform for real-time credit card fraud detection, automated dispute resolution, and regulatory compliance monitoring, inspired by high-end banking systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
